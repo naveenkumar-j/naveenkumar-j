@@ -14,8 +14,7 @@
 </tr></table>
 </p>
 <img align ="right" alt "Coding" src="https://github.com/naveenkumar-j/naveenkumar-j/blob/main/Programming.png">
- <br>
- <br>
+<div>&nbsp;</div>
 <!-- Header end -->
 
  <!-- GitHub About me section start -->
