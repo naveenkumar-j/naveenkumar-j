@@ -10,7 +10,7 @@
 <table align="center"><tr>
 <td><a href="https://linkedin.com/in/naveenkumar-j-610147174/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" /></a></td>
 <td><a href="https://instagram.com/eagle_programming/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
-<td><a href="https://hashnode.com/@naveenkumarj" target="blank"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="Hashnode" height="30" width="40" /></a></td>
+<td><a href="https://hashnode.com/@naveenkumarj" target="blank"><img src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" height="30" width="30" /></a></td>
 </tr></table>
 </p>
 <img align ="right" alt "Coding" src="https://github.com/naveenkumar-j/naveenkumar-j/blob/main/Programming.png">
