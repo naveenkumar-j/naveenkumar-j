@@ -13,7 +13,7 @@
 <td><a href="https://hashnode.com/@naveenkumarj" target="blank"><img src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" height="30" width="30" /></a></td>
 </tr></table>
 </p>
-<img align="right" alt="Coding" src="assets/Programming.png">
+<img align ="right" alt "Coding" src="https://github.com/naveenkumar-j/naveenkumar-j/blob/main/Programming.png">
 <div>&nbsp;</div>
 <!-- Header end -->
 
@@ -34,20 +34,24 @@
    <table>
       <tbody>
          <tr>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Python</strong></span><br/>
                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg" alt="Python">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Java</strong></span><br/>
                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg" alt="Java">
+            </td>
+            <td align="center">
+               <span><strong>Javascript</strong></span><br/>
+               <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript">
             </td>
          </tr>
       </tbody>
    </table>
 </center>
 
-- **Frontend Development**
+- **Frontend & Web Development**
 <center>
    <table>
       <tbody>
@@ -58,35 +62,71 @@
             </td>
             <td align="center">
                <span><strong>CSS</strong></span><br/>
-               <img src="assets/CSS.png" alt="CSS">
+               <img height="64px" width="64px" src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="CSS">
             </td>
             <td align="center">
-               <span><strong>Javascript</strong></span><br/>
-               <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript">
-            </td>
-            <td align="center">
-               <span><strong>Wordpress</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress">
+               <span><strong>React</strong></span><br/>
+               <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
             </td>
             <td align="center">
                <span><strong>Bootstrap</strong></span><br/>
                <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap">
             </td>
             <td align="center">
-               <span><strong>React</strong></span><br/>
-               <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
+               <span><strong>Flask</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask">
             </td>
-            <td  align="center">
+         </tr>
+      </tbody>
+   </table>
+</center>
+
+- **CMS & No-Code**
+<center>
+   <table>
+      <tbody>
+         <tr>
+            <td align="center">
+               <span><strong>Wordpress</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress">
+            </td>
+            <td align="center">
                <span><strong>Wix</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix">
             </td>
-            <td width="25%" align="center">
-               <span><strong>NPM</strong></span><br/>
-               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/npm.svg">
+         </tr>
+      </tbody>
+   </table>
+</center>
+
+- **AI, ML & Data Science**
+<center>
+   <table>
+      <tbody>
+         <tr>
+            <td align="center">
+               <span><strong>ChatGPT</strong></span><br/>
+               <img height="64px" width="64px" src="https://seeklogo.com/images/C/chatgpt-logo-B3C0CF3025-seeklogo.com.png" alt="ChatGPT">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Babel</strong></span><br/>
-               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Babel.svg">
+            <td align="center">
+               <span><strong>Tensorflow</strong></span><br/>
+               <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow">
+            </td>
+            <td align="center">
+               <span><strong>OpenCV</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV">
+            </td>
+            <td align="center">
+               <span><strong>PyTorch</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch">
+            </td>
+            <td align="center">
+               <span><strong>NumPy</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy">
+            </td>
+            <td align="center">
+               <span><strong>Matlab</strong></span><br/>
+               <img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab">
             </td>
          </tr>
       </tbody>
@@ -98,11 +138,11 @@
    <table>
       <tbody>
          <tr>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>MySql</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySql">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Hive</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive">
             </td>
@@ -111,56 +151,72 @@
    </table>
 </center>
 
-- **web Hosting Platforms**
+- **Cloud & Hosting Platforms**
 <center>
    <table>
       <tbody>
          <tr>
-            <td width="25%" align="center">
+            <td align="center">
+               <span><strong>AWS cloud</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS cloud">
+            </td>
+            <td align="center">
+               <span><strong>Azure cloud</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure cloud">
+            </td>
+            <td align="center">
+               <span><strong>IBM cloud</strong></span><br/>
+               <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM cloud">
+            </td>
+            <td align="center">
                <span><strong>Heroku</strong></span><br/>
                <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Netlify</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Github pages</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github pages">
-            </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Vercel</strong></span><br/>
                <img height="64px" width="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/vercel-icon.svg" alt="Vercel">
+            </td>
+            <td align="center">
+               <span><strong>Github pages</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github pages">
             </td>
          </tr>
       </tbody>
    </table>
 </center>
 
-- **AI/ML**
+- **DevOps & Version Control**
 <center>
    <table>
       <tbody>
          <tr>
-          <td width="25%" align="center">
-               <span><strong>ChatGPT</strong></span><br/>
-               <img height="64px" width="64px" src="https://seeklogo.com/images/C/chatgpt-logo-B3C0CF3025-seeklogo.com.png" alt="ChatGPT">
+            <td align="center">
+               <span><strong>Git</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Tensorflow</strong></span><br/>
-               <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow">
+            <td align="center">
+               <span><strong>GitHub</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub">
             </td>
-            <td width="25%" align="center">
-               <span><strong>OpenCV</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV">
+            <td align="center">
+               <span><strong>Bitbucket</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket">
             </td>
-            <td width="25%" align="center">
-               <span><strong>PyTorch</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch">
+            <td align="center">
+               <span><strong>GitLab</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab">
             </td>
-            <td width="25%" align="center">
-               <span><strong>NumPy</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy">
+            <td align="center">
+               <span><strong>Linux</strong></span><br/>
+               <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux">
+            </td>
+            <td align="center">
+               <span><strong>Ansible</strong></span><br/>
+               <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible">
             </td>
          </tr>
       </tbody>
@@ -172,11 +228,11 @@
    <table>
       <tbody>
          <tr>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Figma</strong></span><br/>
                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Canva</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva">
             </td>
@@ -185,94 +241,48 @@
    </table>
 </center>
 
-- **Cloud Platforms**
+- **Tools & Softwares**
 <center>
    <table>
       <tbody>
          <tr>
-            <td width="25%" align="center">
-               <span><strong>IBM cloud</strong></span><br/>
-               <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM cloud">
+            <td align="center">
+               <span><strong>NPM</strong></span><br/>
+               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/npm.svg" alt="NPM">
             </td>
-            <td width="25%" align="center">
-               <span><strong>AWS cloud</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS cloud">
+            <td align="center">
+               <span><strong>Babel</strong></span><br/>
+               <img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Babel.svg" alt="Babel">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Azure cloud</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure cloud">
-            </td>
-         </tr>
-      </tbody>
-   </table>
-</center>
-
- - **Version control Systems**
-<center>
-   <table>
-      <tbody>
-         <tr>
-            <td width="25%" align="center">
-               <span><strong>Git</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>GitHub</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>Bitbucket</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>GitLap</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab">
-            </td>
-         </tr>
-      </tbody>
-   </table>
-</center>
-
-- **Others**
-<center>
-   <table>
-      <tbody>
-         <tr>
-            <td width="25%" align="center">
-               <span><strong>Linux</strong></span><br/>
-               <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>Arduino</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>Flask</strong></span><br/>
-               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask">
-            </td>
-            <td width="25%" align="center">
-               <span><strong>Matlab</strong></span><br/>
-               <img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab">
-            </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Postman</strong></span><br/>
                <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>Jira</strong></span><br/>
                <img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Ansible</strong></span><br/>
-               <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible">
+            <td align="center">
+               <span><strong>Slack</strong></span><br/>
+               <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack">
             </td>
-            <td width="25%" align="center">
+            <td align="center">
                <span><strong>PowerBI</strong></span><br/>
                <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI">
             </td>
-            <td width="25%" align="center">
-               <span><strong>Slack</strong></span><br/>
-               <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack">
+         </tr>
+      </tbody>
+   </table>
+</center>
+
+- **Hardware & IoT**
+<center>
+   <table>
+      <tbody>
+         <tr>
+            <td align="center">
+               <span><strong>Arduino</strong></span><br/>
+               <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino">
             </td>
          </tr>
       </tbody>
