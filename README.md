@@ -13,7 +13,7 @@
 <td><a href="https://hashnode.com/@naveenkumarj" target="blank"><img src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" height="30" width="30" /></a></td>
 </tr></table>
 </p>
-<img align ="right" alt "Coding" src="https://github.com/naveenkumar-j/naveenkumar-j/blob/main/Programming.png">
+<img align="right" alt="Coding" src="assets/Programming.png">
 <div>&nbsp;</div>
 <!-- Header end -->
 
@@ -58,7 +58,7 @@
             </td>
             <td align="center">
                <span><strong>CSS</strong></span><br/>
-               <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS">
+               <img src="assets/CSS.png" alt="CSS">
             </td>
             <td align="center">
                <span><strong>Javascript</strong></span><br/>
